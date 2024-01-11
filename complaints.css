@@ -1,0 +1,41 @@
+body{
+    background-image: url(../Login/complaints.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.olodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 2px solid white;
+   
+  
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    
+    background-color: transparent;
+    color: white;
+    font-size: large;
+    padding: 7%;
+    border-radius: 20px;
+}
+
+.lolo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    
+    /* background-color: blanchedalmond; */
+    /* padding: 2px; */
+
+}

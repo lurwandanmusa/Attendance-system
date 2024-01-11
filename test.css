@@ -1,0 +1,17 @@
+.loader{
+    width: 150px;
+    height: 150px;
+    border-left: 5px solid #38ff8e;
+    border-radius: 50%;
+    animation: right5231
+    0.9s linear infinite ;
+}
+
+.loader{
+    width: 150px;
+    height: 150px;
+    border-right: 4px solid red;
+    border-radius: 50%;
+    animation: left5231
+    0.9s linear infinite ;
+}
