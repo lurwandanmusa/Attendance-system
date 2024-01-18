@@ -44,7 +44,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    box-shadow: 20px 7px 20px burlywood;
+    box-shadow: 20px 7px 20px rgb(31, 31, 55);
     backdrop-filter: blur(8px);
     border: 1px solid black;
     color: burlywood;
@@ -73,14 +73,21 @@ body{
     margin-left: 10%;
     margin-top: 10rem;
     border-radius: 10%;
-} */ */
+} */ 
 
-h1{
+.h1{
+    
+     display: flex;
+    justify-content: center;
+    align-items: center;
+   /* margin-left: 50%;
+    /* transition: .9s ease-in-out; */ 
+}
+
+.h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-left: 50%; */
-    transition: .9s ease-in-out;
 }
 
 a:hover, a:focus{
@@ -104,6 +111,6 @@ a:hover, a:focus{
     
 }
 
-@media screen and (max-width: 600px){
-    
+@media screen and (max-width: 600px) {
+
 }
